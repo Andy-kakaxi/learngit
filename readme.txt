@@ -6,4 +6,5 @@ test file.
 The type of this file is "txt".
 --------------
 test branch of git.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
